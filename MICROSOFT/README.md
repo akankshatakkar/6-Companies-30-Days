@@ -6,6 +6,7 @@ Q2. Combination Sum with a twist.
 https://leetcode.com/problems/combination-sum-iii/description/
 
 Q3. Bulls and Cows
+https://leetcode.com/problems/bulls-and-cows/description/
 
 Q4. You are given an integer array nums of length n. Return maximum length of Rotation Function.
 
